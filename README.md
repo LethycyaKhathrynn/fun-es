@@ -1,0 +1,2 @@
+# funcoes
+ dio tqi fullstack
